@@ -1,5 +1,4 @@
 # List of timezones
-Current date is September 15, 2023
 - Africa/Abidjan
 - Africa/Accra
 - Africa/Addis_Ababa
